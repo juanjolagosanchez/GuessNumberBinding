@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GessNumberBinding</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Config_fragment_label">ConfigFragment</string>
+    <string name="Play_fragment_label">PlayFragment</string>
+    <string name="jugador">jugador</string>
+    <string name="textview">Intentos</string>
+    <string name="edPlayer">Jugador</string>
+    <string name="btnPlay">¡A jugar!</string>
+    <string name="edNumber">Introduce el numero</string>
+    <string name="btnTest">Comprobar</string>
+    <string name="tvResult">Resultado</string>
+    <string name="btnReset">Resetear</string>
+    <string name="tvFinal">Ganador</string>
+    <string name="LowerNumber">"El numero es mas pequeño "</string>
+    <string name="higherNumber">El numero es mas grande</string>
+</resources>
