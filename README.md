@@ -1,6 +1,5 @@
 ## Introducción 📖
-Progama de hecho para deint en el curso 22-23, es un juego para adivinar el numero, el programa consiste en 1 Activity principal y 3 fragments,
-en la primera pedimos Pedimos los datos al usuario en la segunda se produce un juego y en la tercera te dice que has ganado y el numero de intentos.
+Progama de hecho para deint en el curso 22-23, es un juego para adivinar el numero, el programa consiste en 1 Activity principal y 3 fragments.
 Este proyecto es similar al Guesnumber: https://github.com/juanjolagosanchez/GuessNumber
 Aquí se mostrarán las difernecias con respecto a dicho proyecto.
 
